@@ -17,11 +17,11 @@ Java Programming Language.<br/>
 ##### Upon starting application
 <img src="https://user-images.githubusercontent.com/91070226/153894465-467bb28d-ba22-410e-8152-036e6bfb3b52.png" width="40%"><br/><br/>
 
-##### Add a Quote
+##### Adding a Quote
 <img src="https://user-images.githubusercontent.com/91070226/153898537-50e39366-ce1d-41f0-9392-1439627c9a61.png" width="50%"><br/><br/>
 
-##### Display Quotes
+##### Displaying Quotes
 <img src="https://user-images.githubusercontent.com/91070226/153898653-8ef5d0e7-c070-4304-95b2-1655038b55b3.png" width="50%"><br/><br/>
 
-##### Display Quotes by Customer Type
+##### Displaying Quotes by Customer Type
 <img src="https://user-images.githubusercontent.com/91070226/153898791-b2d06d31-2f6e-4590-8f44-4373103e3234.png" width="50%"><br/><br/>
