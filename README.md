@@ -8,7 +8,7 @@ The application should allow the user to add customer quotes, and view customer 
 
 Console Application.<br/>
 Developed on Eclipse.<br/>
-C# Programming Language.<br/>
+Java Programming Language.<br/>
 
 ## Screenshots
 
