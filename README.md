@@ -24,4 +24,4 @@ Java Programming Language.<br/>
 <img src="https://user-images.githubusercontent.com/91070226/153898653-8ef5d0e7-c070-4304-95b2-1655038b55b3.png" width="50%"><br/><br/>
 
 ##### Displaying Quotes by Customer Type
-<img src="https://user-images.githubusercontent.com/91070226/153898791-b2d06d31-2f6e-4590-8f44-4373103e3234.png" width="50%"><br/><br/>
+<img src="https://user-images.githubusercontent.com/91070226/153898791-b2d06d31-2f6e-4590-8f44-4373103e3234.png" width="50%">
